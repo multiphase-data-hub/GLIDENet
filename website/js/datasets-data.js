@@ -30,5 +30,35 @@ window.DATASETS = [
     "hostingPlatform": "ModelScope",
     "paperTitle": "A numerical framework for simulating liquid droplet breakup in isotropic turbulence",
     "categories": []
+  },
+  {
+    "id": "turbulent-liquid-jet-atomization-20261028-142102",
+    "title": "Turbulent liquid jet atomization",
+    "subtitle": "A dense cylindrical turbulent liquid jet is continuously injected into a quiescent lighter phase",
+    "status": "community",
+    "tags": [
+      "basilisk",
+      "atomisation",
+      "two-phase flow",
+      "cylindrical liquid jet",
+      "amr"
+    ],
+    "samples": "185",
+    "grid": "Nx=2048, Ny=2048, Nz=2048 (AMR)",
+    "dimension": "3",
+    "phaseCategory": "Two-phase flow",
+    "flowRegime": "Turbulent",
+    "reaction": "Non-reactive",
+    "fieldLocation": "cell-centered",
+    "format": "custom binary",
+    "license": "Apache License 2.0",
+    "size": "125 GB",
+    "imageUrl": "assets/turbulent-liquid-jet-atomization-20261028-142102/cover.png",
+    "dataUrl": "https://www.modelscope.cn/datasets/yangqianqi/Turbulent_liquid_jet_atomization_Re_3000_We_5556",
+    "detailUrl": "dataset-turbulent-liquid-jet-atomization-20261028-142102.html",
+    "caseCount": 5,
+    "hostingPlatform": "ModelScope",
+    "paperTitle": "basilisk example",
+    "categories": []
   }
 ];
