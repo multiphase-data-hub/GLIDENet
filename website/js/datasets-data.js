@@ -1,6 +1,84 @@
 // Auto-generated from datasets/*.json -- do not edit manually.
 window.DATASETS = [
   {
+    "id": "atomization-of-a-liquid-jet-in-crossflow-20261028-145501",
+    "title": "Atomization of a liquid jet in crossflow",
+    "subtitle": "Atomization of a liquid jet in crossflow",
+    "status": "community",
+    "tags": [
+      "crossflow"
+    ],
+    "samples": "",
+    "grid": "Nx=Ny=Nz=2048",
+    "dimension": "3",
+    "phaseCategory": "Two-phase flow",
+    "flowRegime": "Turbulent",
+    "reaction": "Non-reactive",
+    "fieldLocation": "N/A",
+    "format": "N/A",
+    "license": "N/A",
+    "size": "148 GB",
+    "imageUrl": "assets/atomization-of-a-liquid-jet-in-crossflow-20261028-145501/cover.png",
+    "dataUrl": "https://www.modelscope.cn/my/overview",
+    "detailUrl": "dataset-atomization-of-a-liquid-jet-in-crossflow-20261028-145501.html",
+    "caseCount": 2,
+    "hostingPlatform": "ModelScope",
+    "paperTitle": "N/A",
+    "categories": []
+  },
+  {
+    "id": "bubble-rise-in-a-large-container-20261028-150034",
+    "title": "Bubble rise in a large container",
+    "subtitle": "Bubble rise in a large container",
+    "status": "community",
+    "tags": [
+      "Bubble"
+    ],
+    "samples": "",
+    "grid": "N/A",
+    "dimension": "3",
+    "phaseCategory": "Two-phase flow",
+    "flowRegime": "Laminar",
+    "reaction": "Non-reactive",
+    "fieldLocation": "N/A",
+    "format": "N/A",
+    "license": "N/A",
+    "size": "4.84 GB",
+    "imageUrl": "assets/bubble-rise-in-a-large-container-20261028-150034/cover.png",
+    "dataUrl": "https://www.modelscope.cn/my/overview",
+    "detailUrl": "dataset-bubble-rise-in-a-large-container-20261028-150034.html",
+    "caseCount": 2,
+    "hostingPlatform": "ModelScope",
+    "paperTitle": "N/A",
+    "categories": []
+  },
+  {
+    "id": "drop-breakup-20261028-150357",
+    "title": "Drop breakup",
+    "subtitle": "Drop breakup",
+    "status": "community",
+    "tags": [
+      "N/A"
+    ],
+    "samples": "",
+    "grid": "N/A",
+    "dimension": "3",
+    "phaseCategory": "Two-phase flow",
+    "flowRegime": "Turbulent",
+    "reaction": "Non-reactive",
+    "fieldLocation": "N/A",
+    "format": "N/A",
+    "license": "N/A",
+    "size": "3000 GB",
+    "imageUrl": "assets/drop-breakup-20261028-150357/cover.png",
+    "dataUrl": "https://www.modelscope.cn/my/overview",
+    "detailUrl": "dataset-drop-breakup-20261028-150357.html",
+    "caseCount": 1,
+    "hostingPlatform": "ModelScope",
+    "paperTitle": "N/A",
+    "categories": []
+  },
+  {
     "id": "droplet-breakup-in-hit-20260911-013152",
     "title": "Droplet breakup in HIT",
     "subtitle": "Direct numerical simulation data of a liquid droplet breaking up in forced homogeneous isotropic turbulence at Weber number 15",
@@ -29,6 +107,32 @@ window.DATASETS = [
     "caseCount": 1,
     "hostingPlatform": "ModelScope",
     "paperTitle": "A numerical framework for simulating liquid droplet breakup in isotropic turbulence",
+    "categories": []
+  },
+  {
+    "id": "liquid-jet-in-supersonic-crossflow-20261028-150648",
+    "title": "Liquid jet in supersonic crossflow",
+    "subtitle": "Liquid jet in supersonic crossflow",
+    "status": "community",
+    "tags": [
+      "supersonic crossflow"
+    ],
+    "samples": "",
+    "grid": "N/A",
+    "dimension": "3",
+    "phaseCategory": "Two-phase flow",
+    "flowRegime": "Turbulent",
+    "reaction": "Non-reactive",
+    "fieldLocation": "N/A",
+    "format": "N/A",
+    "license": "N/A",
+    "size": "366 GB",
+    "imageUrl": "assets/liquid-jet-in-supersonic-crossflow-20261028-150648/detail-1.png",
+    "dataUrl": "https://www.modelscope.cn/my/overview",
+    "detailUrl": "dataset-liquid-jet-in-supersonic-crossflow-20261028-150648.html",
+    "caseCount": 1,
+    "hostingPlatform": "ModelScope",
+    "paperTitle": "N/A",
     "categories": []
   },
   {

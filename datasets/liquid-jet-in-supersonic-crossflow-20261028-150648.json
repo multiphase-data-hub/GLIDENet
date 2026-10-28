@@ -10,22 +10,23 @@
   "access_link": "https://www.modelscope.cn/my/overview",
   "metadata_link": "https://www.modelscope.cn/my/overview",
   "dimension": "3",
-  "grid": "#",
+  "grid": "N/A",
   "phase_category": "Two-phase flow",
   "flow_regime": "Turbulent",
   "reaction": "Non-reactive",
-  "field_location": "#",
-  "format": "#",
-  "file_format": "#",
+  "field_location": "N/A",
+  "format": "N/A",
+  "file_format": "N/A",
   "size": "366 GB",
   "case_count": "1",
-  "contributors": "#",
-  "contact": "#",
-  "paper_title": "#",
-  "doi": "#",
-  "license": "#",
+  "contributors": "N/A",
+  "contact": "N/A",
+  "paper_title": "N/A",
+  "doi": "N/A",
+  "license": "N/A",
   "detail_images": [
     "assets/liquid-jet-in-supersonic-crossflow-20261028-150648/detail-1.png"
   ],
-  "id": "liquid-jet-in-supersonic-crossflow-20261028-150648"
+  "id": "liquid-jet-in-supersonic-crossflow-20261028-150648",
+  "preview": "assets/liquid-jet-in-supersonic-crossflow-20261028-150648/detail-1.png"
 }
